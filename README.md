@@ -1,7 +1,7 @@
 # README 说明书
 ## project-tako
 
-> 欢迎使用github
+> 欢迎使用GitHub
 >
 > 这里将会成为整个项目的起点
 >
