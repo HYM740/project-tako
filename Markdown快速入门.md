@@ -86,6 +86,8 @@ GOOGLE.COM
 
 脚注是对文本的补充说明。
 
+**GitHub 不支持这样使用**
+
 脚注的格式如下:[^bilibili动画]
 
 [^bilibili动画]: 一家弹幕视频网站
